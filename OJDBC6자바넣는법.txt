@@ -1,0 +1,6 @@
+
+app - product - 어쩌고에서 ojdbc6을
+
+java jdk ? / jre ? 여기에 복사 붙여넣기하는거
+
+그방법 알아보기
